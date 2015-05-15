@@ -53,15 +53,3 @@ git clone https://github.com/swmcc/github-100day-commits.git
 cd github-100day-commits 
 # ADD MORE
 ```
-
-I intend to use:
-
-https://github.com/peter-murach/github#23-ssl
-
-and
-
-https://github.com/swmcc/dotfiles/blob/master/git/repo-stats.sh
-
-Lets see what happens... GRRRRR Impromptu work night out... so only home 10pm... Will get to this tomorrow :(
-
-Same tonight - not home until 10:45... I have a way of getting rid of this though but don't want to create another repo until I have created this one... Will def have time at the weekend.
