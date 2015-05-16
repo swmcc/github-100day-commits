@@ -27,7 +27,7 @@ Commits might be a bit light on the ground as time goes on but we will see.
 
 1. How many issues have I created in the time frame?
 
-2. How manh issues have I closed in the time frame?
+2. How many issues have I closed in the time frame?
 
 3. The longest issue that has been created in this time frame.
 
