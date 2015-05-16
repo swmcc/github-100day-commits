@@ -8,7 +8,8 @@ An analysis of my 100 day github contribution streak.
 
 ## Links
 
-[Blog Entry](http://www.theonlystephen.com/blog/2015/03/24/50_Day_GitHub_Streak.html) 
+[50 Github Contrib Blog Entry](http://www.theonlystephen.com/blog/2015/03/24/50_Day_GitHub_Streak.html) 
+[Stats](http://www.theonlystephen.com/github-100day-commits/) 
 
 ## What am I expecting?
 
@@ -51,5 +52,5 @@ Write a summary on the gh-pages branch of the findings - add a link to it on thi
 ```
 git clone https://github.com/swmcc/github-100day-commits.git 
 cd github-100day-commits 
-# ADD MORE
+jekyll serve
 ```
