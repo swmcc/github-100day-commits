@@ -9,6 +9,7 @@ An analysis of my 100 day github contribution streak.
 ## Links
 
 [50 Github Contrib Blog Entry](http://www.theonlystephen.com/blog/2015/03/24/50_Day_GitHub_Streak.html) 
+
 [Stats](http://www.theonlystephen.com/github-100day-commits/) 
 
 ## What am I expecting?
