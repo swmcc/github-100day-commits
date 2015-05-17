@@ -88,8 +88,8 @@ $(function() {
             itouch: 1791
         }],
         xkey: 'period',
-        ykeys: ['dotfiles', 'new.theonlystephen.com', 'django-recurrence', 'exercises', 'nestoria-python', 'swmcc.github.io', 'api.whatisonte.tv', 'sample-files', 'xmltvparser', 'quantum', 'recipies'],
-        labels: ['dotfiles', 'new.theonlystephen.com', 'django-recurrence', 'exercises', 'nestoria-python', 'swmcc.github.io', 'api.whatisonte.tv', 'sample-files', 'xmltvparser', 'quantum', 'recipies'],
+        ykeys: ['dotfiles', 'exercises', 'nestoria-python', 'swmcc.github.io', 'api.whatisonte.tv', 'xmltvparser', 'quantum', 'recipies'],
+        labels: ['dotfiles', 'exercises', 'nestoria-python', 'swmcc.github.io', 'api.whatisonte.tv', 'xmltvparser', 'quantum', 'recipies'],
         pointSize: 2,
         hideHover: 'auto',
         resize: true
